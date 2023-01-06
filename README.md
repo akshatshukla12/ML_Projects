@@ -28,13 +28,13 @@ The model is deployed on the AWS EC2 instance in which we are allowing all HTTP 
 
 Tools/Technology Used
 
--Python as our programming language 
--Numpy and Pandas for data cleaning
--Matplotlib and seaborn for data visualization
--Sklearn for model building
--Jupyter notebook, visual studio code, and git bash as IDE
--Python flask for model server
--nginx for a web server
--HTML/CSS/Javascript for UI
+1. Python as our programming language 
+2. Numpy and Pandas for data cleaning
+3. Matplotlib and seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code, and git bash as IDE
+6. Python flask for model server
+7. nginx for a web server
+8. HTML/CSS/Javascript for UI
 
 Enjoyed doing this project and hope to do many more. 
